@@ -1,0 +1,17 @@
+{
+    "name": "sam-cam",
+    "main": "index.ts",
+    "devDependencies": {
+        "@types/node": "^14",
+        "@typescript-eslint/eslint-plugin": "^5.43.0",
+        "@typescript-eslint/parser": "^5.43.0",
+        "eslint": "^8.28.0",
+        "eslint-config-prettier": "^8.5.0",
+        "prettier": "2.7.1"
+    },
+    "dependencies": {
+        "@pulumi/confluentcloud": "^1.5.0",
+        "@pulumi/gcp": "^6.0.0",
+        "@pulumi/pulumi": "^3.0.0"
+    }
+}

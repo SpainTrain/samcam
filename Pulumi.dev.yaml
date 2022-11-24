@@ -1,0 +1,6 @@
+config:
+  confluentcloud:cloudApiSecret:
+    secure: AAABABejttNeZCHkDQH0to0cKmnN/zt0gPVgrKf71b8u2zswyMDtzGKdiyjM1X/VX/8vlOR2u8BmwMJ7ZBOGv1+dqRnYbYQ7Aw2NH50oHZvDwUTqPS85G+3QM1I87XtP
+  confluentcloud:cloudApiKey:
+    secure: AAABAGFucTi4XNlKi/CE0dvK5TnWJrF+cvOadUouasFZHNdMY8ATRQYLNzGftcxg
+  gcp:project: sam-cam
